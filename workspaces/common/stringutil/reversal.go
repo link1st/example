@@ -1,5 +1,5 @@
-// Package strings 字符串反转
-package strings
+// Package stringutil 字符串操作包
+package stringutil
 
 // Reversal 字符串反转
 func Reversal(str string) string {

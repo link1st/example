@@ -1,5 +1,5 @@
 // Package strings strings
-package strings
+package stringutil
 
 import (
 	"testing"
